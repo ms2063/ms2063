@@ -11,8 +11,7 @@
 </p>
 
 <p><img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXc5Y25uOWNlNzBneWliNDFjbmNoaWUza2d0Y2Q0NXQzeGVyNDU4eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nR4L10XlJcSeQ/giphy.gif"  /></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ms2063&label=Visitors&color=0e75b6&style=flat" alt="ms2063" /> </p>
-
+<p align="left"> <img src="https://visitcount.itsvg.in/api?id=ms2063&label=Visitors&color=1&icon=0&pretty=true" /> </p>
 <samp>
         
 - 🔭 I’m currently working on [Data Science](https://ms2063.github.io)
@@ -48,11 +47,11 @@
 <h3 align="left">Languages and Tools:</h3></samp>
 <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ms2063&show_icons=true&locale=en&layout=compact" alt="ms2063" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ms2063&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ms2063&show_icons=true&locale=en" alt="ms2063" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ms2063&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ms2063&" alt="ms2063" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ms2063&theme=tokyonight&hide_border=false" /></p>
 
 <br clear="both">
 <img src="https://raw.githubusercontent.com/ms2063/ms2063/output/snake.svg" alt="Snake animation" />
