@@ -15,7 +15,9 @@
 
 - 📝 I regularly write articles on [ms2063.github.io](https://ms2063.github.io)
 
-- 📫 How to reach me **ms206320632063@gmail.com**
+- 📫 How to reach me <a href="ms206320632063@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="gmail logo"  />
+  </a>
 
 - 📄 Know about my experiences [ms2063.github.io](https://ms2063.github.io)
 
@@ -37,11 +39,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ms2063&" alt="ms2063" /></p>
 
-
-###
-
 <br clear="both">
-
 <img src="https://raw.githubusercontent.com/ms2063/ms2063/output/snake.svg" alt="Snake animation" />
-
-###
