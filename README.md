@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on [Data Science](https://ms2063.github.io)
 
-- 🤝 I’m looking for help with [Data Science](https://ms2063.github.io))
+- 🤝 I’m looking for help with [Data Science](https://ms2063.github.io)
 
 - 👨‍💻 All of my projects are available at [ms2063.github.io](https://ms2063.github.io)
 
