@@ -1,8 +1,7 @@
 <p align="center">
-    <img width="250" height="50" src="https://i.postimg.cc/sXcsx9Hv/hi.png">
+    <img width="300" height="100" src="https://i.postimg.cc/bJwpg96D/intro.png">
 </p>
 
-<h3 align="center">Data Analyst based in JP・KR</h3>
 <p><img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXc5Y25uOWNlNzBneWliNDFjbmNoaWUza2d0Y2Q0NXQzeGVyNDU4eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nR4L10XlJcSeQ/giphy.gif"  /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ms2063&label=Profile%20views&color=0e75b6&style=flat" alt="ms2063" /> </p>
 
