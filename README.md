@@ -1,9 +1,8 @@
-<h3 align="center">
+<h1 align="center">
         <samp> Hey There!, I am
                 <b><a target="_blank" href="https://ms2063.github.io">ms2063</a></b>
         </samp>
-</h3>
-
+</h1>
 
 <p align="center"> 
   <samp>
@@ -12,8 +11,10 @@
 </p>
 
 <p><img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXc5Y25uOWNlNzBneWliNDFjbmNoaWUza2d0Y2Q0NXQzeGVyNDU4eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nR4L10XlJcSeQ/giphy.gif"  /></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ms2063&label=Profile%20views&color=0e75b6&style=flat" alt="ms2063" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ms2063&label=Visitors&color=0e75b6&style=flat" alt="ms2063" /> </p>
+
 <samp>
+        
 - 🔭 I’m currently working on [Data Science](https://ms2063.github.io)
 
 - 🌱 I’m currently learning **Data Science**
@@ -34,6 +35,7 @@
 
 - ⚡ Fun fact **I like hiking**
 </samp>
+
 <samp>
 <h3 align="left">Connect with me:</h3>
 </samp>
