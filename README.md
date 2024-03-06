@@ -3,21 +3,21 @@
 <p><img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXc5Y25uOWNlNzBneWliNDFjbmNoaWUza2d0Y2Q0NXQzeGVyNDU4eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nR4L10XlJcSeQ/giphy.gif"  /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ms2063&label=Profile%20views&color=0e75b6&style=flat" alt="ms2063" /> </p>
 
-- 🔭 I’m currently working on [Data Science](ms2063.github.io)
+- 🔭 I’m currently working on [Data Science](https://ms2063.github.io)
 
 - 🌱 I’m currently learning **Data Science**
 
-- 👯 I’m looking to collaborate on [Data Science](ms2063.github.io)
+- 👯 I’m looking to collaborate on [Data Science](https://ms2063.github.io)
 
-- 🤝 I’m looking for help with [Data Science](ms2063.github.io)
+- 🤝 I’m looking for help with [Data Science](https://ms2063.github.io))
 
-- 👨‍💻 All of my projects are available at [ms2063.github.io](ms2063.github.io)
+- 👨‍💻 All of my projects are available at [ms2063.github.io](https://ms2063.github.io)
 
-- 📝 I regularly write articles on [ms2063.github.io](ms2063.github.io)
+- 📝 I regularly write articles on [ms2063.github.io](https://ms2063.github.io)
 
 - 📫 How to reach me **ms206320632063@gmail.com**
 
-- 📄 Know about my experiences [ms2063.github.io](ms2063.github.io)
+- 📄 Know about my experiences [ms2063.github.io](https://ms2063.github.io)
 
 - ⚡ Fun fact **I like hiking**
 
