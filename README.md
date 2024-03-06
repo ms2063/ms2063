@@ -37,3 +37,11 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ms2063&" alt="ms2063" /></p>
 
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/ms2063/ms2063/output/snake.svg" alt="Snake animation" />
+
+###
