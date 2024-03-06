@@ -1,53 +1,39 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cute+Font&size=50&pause=1000&color=4F94F7&center=true&random=false&width=435&lines=Welcome+to+ms2063's+github)](https://git.io/typing-svg)
+<h1 align="center">Hi 👋, I'm ms2063</h1>
+<h3 align="center">Data Analyst based in JP・KR</h3>
+<p><img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXc5Y25uOWNlNzBneWliNDFjbmNoaWUza2d0Y2Q0NXQzeGVyNDU4eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nR4L10XlJcSeQ/giphy.gif"  /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ms2063&label=Profile%20views&color=0e75b6&style=flat" alt="ms2063" /> </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ms2063&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+- 🔭 I’m currently working on [Data Science](ms2063.github.io)
 
+- 🌱 I’m currently learning **Data Science**
 
-<h2 align="center">Hi 👋! My name is ms2063 and I'm a Data Analyst based in Japan and South Korea.</h2>
+- 👯 I’m looking to collaborate on [Data Science](ms2063.github.io)
 
-###
+- 🤝 I’m looking for help with [Data Science](ms2063.github.io)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ms2063&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ms2063&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+- 👨‍💻 All of my projects are available at [ms2063.github.io](ms2063.github.io)
 
-###
+- 📝 I regularly write articles on [ms2063.github.io](ms2063.github.io)
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXc5Y25uOWNlNzBneWliNDFjbmNoaWUza2d0Y2Q0NXQzeGVyNDU4eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nR4L10XlJcSeQ/giphy.gif"  />
+- 📫 How to reach me **ms206320632063@gmail.com**
 
-###
+- 📄 Know about my experiences [ms2063.github.io](ms2063.github.io)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="30" alt="kaggle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="30" alt="slack logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-</div>
+- ⚡ Fun fact **I like hiking**
 
-###
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://kaggle.com/ms2063" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ms2063" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ms206320632063" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ms206320632063" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ms206320632063" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ms206320632063" height="30" width="40" /></a>
+</p>
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-</div>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
-###
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ms2063&show_icons=true&locale=en&layout=compact" alt="ms2063" /></p>
 
-<br clear="both">
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ms2063&show_icons=true&locale=en" alt="ms2063" /></p>
 
-<img src="https://raw.githubusercontent.com/ms2063/ms2063/output/snake.svg" alt="Snake animation" />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ms2063&" alt="ms2063" /></p>
 
-###
