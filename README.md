@@ -28,7 +28,7 @@
 
 - 📝 I regularly write articles on [ms2063.github.io](https://ms2063.github.io)
 
-- 📫 How to reach me <a href="ms206320632063@gmail.com" target="_blank">
+- 📫 How to reach me <a href="mailto:ms206320632063@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="gmail logo"  />
   </a>
 
