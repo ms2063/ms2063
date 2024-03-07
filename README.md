@@ -11,7 +11,9 @@
 </p>
 
 <p><img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXc5Y25uOWNlNzBneWliNDFjbmNoaWUza2d0Y2Q0NXQzeGVyNDU4eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nR4L10XlJcSeQ/giphy.gif"  /></p>
-<p align="left"> <img src="https://visitcount.itsvg.in/api?id=ms2063&label=Visitors&color=1&icon=0&pretty=true" /> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ms2063&label=Visitors&color=0e75b6&style=for-the-badge&abbreviated=true" alt="ms2063" /> </p>
+
 <samp>
         
 - 🔭 I’m currently working on [Data Science](https://ms2063.github.io)
