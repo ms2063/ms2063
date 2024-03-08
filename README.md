@@ -16,7 +16,7 @@
 
 <samp>
         
-- 🔭 I’m currently working on  <a href="/convenience_insights" target="_blank">
+- 🔭 I’m currently working on  <a href="https://github.com/ms2063/convenience_insights" target="_blank">
   <img src="https://img.shields.io/badge/ConvenienceInsights-100000?style=for-the-badge&label=&logo=github&logoColor=white" height="22" alt="github logo"></a>
 
 - 🌱 I’m currently learning **Data Science**
