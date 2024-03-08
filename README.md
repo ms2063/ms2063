@@ -4,7 +4,7 @@
         </samp>
 </h1>
 
-<p align="center"> 
+<h2><p align="center"> 
   <samp>
     「 I am a data analyst based in <b>JP・KR</b> 」
   </samp>
@@ -17,27 +17,28 @@
 <samp>
         
 - 🔭 I’m currently working on  <a href="https://github.com/ms2063/convenience_insights" target="_blank">
-  <img src="https://img.shields.io/badge/Convenience_Insights-100000?style=for-the-badge&label=&logo=github&logoColor=white" height="22" alt="github logo"></a>
+  <img src="https://img.shields.io/badge/Convenience_Insights-100000?style=for-the-badge&label=&logo=github&logoColor=white" height="23" alt="github logo"></a>
 
 - 🌱 I’m currently learning **Data Science**
+ 
+<!-- - 👯 I’m looking to collaborate on [Data Science](https://ms2063.github.io)-->
 
-- 👯 I’m looking to collaborate on [Data Science](https://ms2063.github.io)
+<!-- - 🤝 I’m looking for help with [Data Science](https://ms2063.github.io)-->
 
-- 🤝 I’m looking for help with [Data Science](https://ms2063.github.io)
-
-- 👨‍💻 All of my projects are available at  <a href="https://ms2063.github.io" target="_blank">
-  <img src="https://img.shields.io/badge/ms2063.github.io-100000?style=for-the-badge&label=&logo=github&logoColor=white" height="22" alt="github logo"></a>
+- 👨‍💻 All of my projects are available at  <a href="https://github.com/ms2063?tab=repositories" target="_blank">
+  <img src="https://img.shields.io/badge/Github-100000?style=for-the-badge&label=&logo=github&logoColor=white" height="23" alt="github logo"></a>
 
 - 📝 I regularly write articles on <a href="https://ms2063.github.io" target="_blank">
-  <img src="https://img.shields.io/badge/blog-100000?style=for-the-badge&label=&logo=github&logoColor=white" height="22" alt="github logo"></a>
+  <img src="https://img.shields.io/badge/blog-100000?style=for-the-badge&label=&color=41454A&logo=github&logoColor=white" height="23" alt="github logo"></a>
 - 📫 How to reach me <a href="mailto:ms206320632063@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="gmail logo"  />
     </a>
 
 
-- 📄 Know about my experiences [ms2063.github.io](https://ms2063.github.io)
+- 📄 Know about my experiences <a href="https://linkedin.com/in/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-100000?style=for-the-badge&label=&color=0A66C2&logo=linkedin&logoColor=white" height="23" alt="linkedin logo"></a>
 
-- ⚡ Fun fact **I like hiking**
+<!-- - ⚡ Fun fact **I like hiking**-->
 </samp>
 
 <samp>
@@ -51,7 +52,7 @@
 <samp>
 <h3 align="left">Languages and Tools:</h3></samp>
 <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
-
+</h2>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ms2063&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ms2063&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" /></p>
@@ -61,7 +62,3 @@
 <br clear="both">
 <img src="https://raw.githubusercontent.com/ms2063/ms2063/output/snake.svg" alt="Snake animation" />
 
-
-
-<div> <a href="https://ms2063.github.io" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&label=&logo=github&logoColor=white" target="_blank"></a>
-</div>
