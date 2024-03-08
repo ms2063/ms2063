@@ -16,7 +16,8 @@
 
 <samp>
         
-- 🔭 I’m currently working on [Data Science](https://ms2063.github.io)
+- 🔭 I’m currently working on  <a href="ms2063/convenience_insights" target="_blank">
+  <img src="https://img.shields.io/badge/ConvenienceInsights-100000?style=for-the-badge&label=&logo=github&logoColor=white" height="22" alt="github logo"></a>
 
 - 🌱 I’m currently learning **Data Science**
 
@@ -24,13 +25,15 @@
 
 - 🤝 I’m looking for help with [Data Science](https://ms2063.github.io)
 
-- 👨‍💻 All of my projects are available at [ms2063.github.io](https://ms2063.github.io)
+- 👨‍💻 All of my projects are available at  <a href="https://ms2063.github.io" target="_blank">
+  <img src="https://img.shields.io/badge/ms2063.github.io-100000?style=for-the-badge&label=&logo=github&logoColor=white" height="22" alt="github logo"></a>
 
-- 📝 I regularly write articles on [ms2063.github.io](https://ms2063.github.io)
-
+- 📝 I regularly write articles on <a href="https://ms2063.github.io" target="_blank">
+  <img src="https://img.shields.io/badge/blog-100000?style=for-the-badge&label=&logo=github&logoColor=white" height="22" alt="github logo"></a>
 - 📫 How to reach me <a href="mailto:ms206320632063@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="gmail logo"  />
-  </a>
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="gmail logo"  />
+    </a>
+
 
 - 📄 Know about my experiences [ms2063.github.io](https://ms2063.github.io)
 
@@ -57,3 +60,8 @@
 
 <br clear="both">
 <img src="https://raw.githubusercontent.com/ms2063/ms2063/output/snake.svg" alt="Snake animation" />
+
+
+
+<div> <a href="https://ms2063.github.io" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&label=&logo=github&logoColor=white" target="_blank"></a>
+</div>
