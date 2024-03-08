@@ -32,9 +32,7 @@
   <img src="https://img.shields.io/badge/blog-100000?style=for-the-badge&label=&color=41454A&logo=github&logoColor=white" height="23" alt="github logo"></a>
 
 - 📫 How to reach me <a href="mailto:ms206320632063@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-100000?style=for-the-badge&logo=gmail&label=&color=D14836&logoColor=white" height="23" alt="gmail logo">
-    </a>
-
+    <img src="https://img.shields.io/badge/Gmail-100000?style=for-the-badge&logo=gmail&color=D14836&logoColor=white" height="23" alt="gmail logo"></a>
 
 - 📄 Know about my experiences <a href="https://linkedin.com/in/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-100000?style=for-the-badge&label=&color=0A66C2&logo=linkedin&logoColor=white" height="23" alt="linkedin logo"></a>
