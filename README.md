@@ -54,9 +54,9 @@
 </h2>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ms2063&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ms2063&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ms2063&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ms2063&theme=tokyonight&hide_border=false" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ms2063&theme=tokyonight&hide_border=false" /></p> 
 
 <br clear="both">
 <img src="https://raw.githubusercontent.com/ms2063/ms2063/output/snake.svg" alt="Snake animation" />
