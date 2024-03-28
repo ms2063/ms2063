@@ -1,5 +1,5 @@
 <h1 align="center">
-        <samp> Hey There!, I am
+        <samp> Hey There! I am
                 <b><a target="_blank" href="https://ms2063.github.io">ms2063</a></b>
         </samp>
 </h1>
