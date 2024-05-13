@@ -6,7 +6,7 @@
 
 <h2><p align="center"> 
   <samp>
-    「 I am a data analyst based in <b>JP・KR</b> 」
+    「 I am a data analyst/scientist based in <b>JP・KR</b> 」
   </samp>
 </p>
 
@@ -16,8 +16,8 @@
 
 <samp>
         
-- 🔭 I’m currently working on  <a href="https://github.com/ms2063/convenience_insights" target="_blank">
-  <img src="https://img.shields.io/badge/Convenience_Insights-100000?style=for-the-badge&label=&logo=github&logoColor=white" height="23" alt="github logo"></a>
+- 🔭 I’m currently working on  <a href="https://github.com/ms2063/mediview" target="_blank">
+  <img src="https://img.shields.io/badge/MediView-100000?style=for-the-badge&label=&logo=github&logoColor=white" height="23" alt="github logo"></a>
 
 - 🌱 I’m currently learning **Data Science**
  
