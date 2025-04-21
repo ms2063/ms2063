@@ -6,7 +6,7 @@
 
 <h2><p align="center"> 
   <samp>
-    「 I am a data analyst/scientist based in <b>JP・KR</b> 」
+    「 I am an engineer based in <b>JP・KR</b> 」
   </samp>
 </p>
 
